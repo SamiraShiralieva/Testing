@@ -14,7 +14,15 @@ namespace lab1
             1 - Сложение 
             2 - Вычитание 
             3 - Умножение 
-            4 - Деление");           
+            4 - Деление");  
+   string c = Console.ReadLine();
+            double a, b;
+            Console.WriteLine(' ');
+            Console.WriteLine("Введите первое значение");
+            a = double.Parse(Console.ReadLine());
+            Console.WriteLine("Введите второе значение");
+            b = double.Parse(Console.ReadLine());
+            Console.WriteLine(' ');         
         }
     }
 }
