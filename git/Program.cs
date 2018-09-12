@@ -22,7 +22,15 @@ namespace lab1
             a = double.Parse(Console.ReadLine());
             Console.WriteLine("Введите второе значение");
             b = double.Parse(Console.ReadLine());
-            Console.WriteLine(' ');         
+            Console.WriteLine(' ');  
+            if (c == "1")
+            {
+                Console.WriteLine("Результат сложения = {0}", a + b);
+            }
+            if (c == "2")
+            {
+                Console.WriteLine("Результат вычитания = {0}", a - b);
+            }       
         }
     }
 }
