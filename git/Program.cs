@@ -31,10 +31,6 @@ namespace lab1
             {
                 Console.WriteLine("Результат вычитания = {0}", a - b);
             }  
-             if (c == "3")
-            {
-                Console.WriteLine("Результат умножения = {0}", a * b);
-            }
             if (c == "4")
             {
                 Console.WriteLine("Результат деления = {0}", a / b);
