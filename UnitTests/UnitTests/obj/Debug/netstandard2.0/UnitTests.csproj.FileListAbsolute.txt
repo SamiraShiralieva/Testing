@@ -1,0 +1,9 @@
+E:\4 курс\1 семестр\Тестирование\UnitTests\UnitTests\bin\Debug\netstandard2.0\UnitTests.deps.json
+E:\4 курс\1 семестр\Тестирование\UnitTests\UnitTests\bin\Debug\netstandard2.0\UnitTests.dll
+E:\4 курс\1 семестр\Тестирование\UnitTests\UnitTests\bin\Debug\netstandard2.0\UnitTests.pdb
+E:\4 курс\1 семестр\Тестирование\UnitTests\UnitTests\obj\Debug\netstandard2.0\UnitTests.csprojResolveAssemblyReference.cache
+E:\4 курс\1 семестр\Тестирование\UnitTests\UnitTests\obj\Debug\netstandard2.0\UnitTests.csproj.CoreCompileInputs.cache
+E:\4 курс\1 семестр\Тестирование\UnitTests\UnitTests\obj\Debug\netstandard2.0\UnitTests.AssemblyInfoInputs.cache
+E:\4 курс\1 семестр\Тестирование\UnitTests\UnitTests\obj\Debug\netstandard2.0\UnitTests.AssemblyInfo.cs
+E:\4 курс\1 семестр\Тестирование\UnitTests\UnitTests\obj\Debug\netstandard2.0\UnitTests.dll
+E:\4 курс\1 семестр\Тестирование\UnitTests\UnitTests\obj\Debug\netstandard2.0\UnitTests.pdb
